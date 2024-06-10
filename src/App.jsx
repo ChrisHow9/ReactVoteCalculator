@@ -15,6 +15,8 @@ const fetchPeople = async (setPeople) => {
   }
 };
 
+
+
 function ListPeople() {
   
   return (
